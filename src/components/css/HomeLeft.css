@@ -1,0 +1,16 @@
+.homeLeft {
+  padding: 25px;
+  font-family: "Nunito", sans-serif;
+  background-color: #d2e2ea;
+  margin-top: 20px;
+}
+.homeLeft > p,
+h4 {
+  line-height: 200%;
+  margin-top: 14px;
+  letter-spacing: 0.5px;
+}
+
+.homeLeft > p {
+  font-size: 14px;
+}
