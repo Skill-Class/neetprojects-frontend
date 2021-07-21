@@ -1,0 +1,55 @@
+.body__top {
+  font-family: "Nunito", sans-serif;
+  height: 450px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  align-items: center;
+  font-family: "Nunito", sans-serif;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.body__top p {
+  letter-spacing: 0.7px;
+  font-size: medium;
+  font-style: oblique;
+  width: fit-content;
+  word-spacing: 3px;
+  max-width: 500px;
+  line-height: 1.5;
+  padding: 10px;
+  color: gray;
+}
+.h_one {
+  letter-spacing: 0.7px;
+  /* word-spacing: 3px; */
+  padding-top: 100px;
+  color: black;
+}
+
+.bt__p {
+  color: whitesmoke;
+}
+.body__top h2 {
+  letter-spacing: 0.7px;
+  font-size: 40px;
+  width: fit-content;
+}
+.body__top button {
+  letter-spacing: 0.7px;
+  text-transform: none;
+  font-family: "Nunito", sans-serif;
+  background-color: "linear-gradient(45deg, #2196F3 30%, #21CBF3 90%)";
+  box-shadow: "0 3px 5px 2px rgba(33, 203, 243, .3)";
+  font-size: small;
+  margin-top: 15px;
+  font-style: normal;
+}
+
+.body__top button :hover {
+  color: black;
+}
+
+.stepper__compo {
+  padding: 20px;
+}

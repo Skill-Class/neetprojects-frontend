@@ -35,3 +35,10 @@
   margin-right: 10px;
   text-decoration: inherit;
 }
+
+.narvbarone__left :hover {
+  font-weight: 600;
+}
+.navbarone__right :hover {
+  font-weight: 600;
+}

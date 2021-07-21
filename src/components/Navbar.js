@@ -7,7 +7,7 @@ function Navbar() {
       <div className="narvbarone__left">
         <Link to="/">Explore </Link>
         <Link to="/projects">Real Life Projects</Link>
-        <Link to="/">Interview</Link>
+        <Link to="/training">Interview</Link>
         <Link to="/">Hackathons</Link>
         <Link to="/">Discuss</Link>
         <Link to="/">Store</Link>

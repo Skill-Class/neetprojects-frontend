@@ -1,0 +1,33 @@
+.mid__text {
+  font-size: medium;
+  text-justify: auto;
+  margin-top: 20px;
+  word-spacing: 1px;
+  line-height: 2;
+  color: #031b4e;
+  font-family: "Nunito", sans-serif;
+  padding: 60px;
+}
+
+.trainings__bottom h1 {
+  font-family: "Nunito", sans-serif;
+  font-size: medium;
+  padding: 20px;
+}
+
+.courses__offered {
+  padding: 20px;
+  justify-content: center;
+}
+
+.youtube {
+  background-color: #f5f5f5;
+  font-family: "Nunito", sans-serif;
+  font-size: small;
+  padding: 20px;
+}
+.youtube__section {
+  padding: 20px;
+  /* margin-left: 20px; */
+  justify-content: center;
+}
